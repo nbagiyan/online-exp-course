@@ -9,4 +9,5 @@
 Записи лекций и семинаров 2023/2024 года, весна:
 1. 30.01.2023. [Лекция 1](https://github.com/nbagiyan/online-exp-course/blob/main/2024-spring%20/lectures/1.pdf). Введение в эксперименты, дизайн экспериментов и связь с гипотезами [Видео](https://youtu.be/bT7u4iO7PfM?si=2GEOwxZ6kdAD4nq8)
 2. 03.02.2023. [Лекция 2](https://github.com/nbagiyan/online-exp-course/blob/main/2024-spring%20/lectures/2.pdf). Метрики продукта, роста и эксперимента. Что почему и как? [Видео](https://youtu.be/CVXWVhMhVm8?si=vpoKdNZzPQ89KZBc)
+3. 06.02.2023. [Лекция 3](https://github.com/nbagiyan/online-exp-course/blob/main/2024-spring%20/lectures/3.pdf). Подбор групп, статистические тесты, что такое хорошее сплит система. [Видео]()
 
