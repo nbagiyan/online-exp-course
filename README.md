@@ -14,4 +14,4 @@
 
 
 Домашние задания 2023/2024 года, весна:
-1. [ДЗ-1])(https://github.com/nbagiyan/online-exp-course/blob/main/2024-spring%20/hw/hw-1/hw1.ipynb). Дата выдачи: 14.02.2023. Дедлайн: 02.03.2023 23:30
+1. [ДЗ-1](https://github.com/nbagiyan/online-exp-course/blob/main/2024-spring%20/hw/hw-1/hw1.ipynb). Дата выдачи: 14.02.2023. Дедлайн: 02.03.2023 23:30
